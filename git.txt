@@ -1,0 +1,52 @@
+user      HeinZayarLin111
+email     heinzayarlin.info1@gmail.com
+pass      heinzayar
+
+Step1     Git download
+Step2     Git Installuation
+Step3     Git acc Creation
+step4     Git Repository
+step5     A file to upload on github
+step6     Git Command Line
+
+cd path- go to directory
+
+First Time ( New Repository)
+          git init
+          git add.
+
+          git config --global user.email"heinzayarlin.info1@gmail.com"
+
+          git config --global user.name "HeinZayarLin111"
+
+(New Reposity For New Project)
+     git init
+     git add .
+     git config global user.email ""
+     git config global user.name ""
+
+     git commit -m "first commit"
+     git remote add origin https://github.com/brainseeddeveloper/Sample.git
+     git push -u origin master
+
+
+cd path - Go to directory
+
+               git add
+               git config --global user.email "heinzayarlin.info1@gmail.com
+               git config --global user . name "HeinZayarLin111"
+          
+               git commit -m "first commit"
+               git remote add origin http
+(old Repository for Existing Project)
+                  
+               git add .
+               git commit -m "second commit"
+               git push
+
+(Existing Projector To Other Laptop)
+
+               git pull
+(other Person Project To own Laptop)
+ 
+               git  clone https://github.com/brainseeddeveloper/Sample.git
