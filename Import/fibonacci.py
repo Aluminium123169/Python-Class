@@ -20,7 +20,7 @@ def fib2(n):	# return Fibonacci series up to n
 	a, b = 0, 1
 	while a < n:
 		result.append(a)
-		a, b = b, a=b
+		a, b = b, a+b
 	return result
 
 # a lout kyat pr(important)
